@@ -17,7 +17,7 @@ My interests span **Cybersecurity, Artificial Intelligence, Network Security, Cl
 
 Machine Learning and Deep Learning approaches for PE malware detection, cross-dataset generalization and adversarial robustness analysis.
 
-### 🛡️ Penetration Testing & System and Network Security
+### 🛡️ [Penetration Testing & System and Network Security](https://github.com/ConoPaoloSantoro/penetration-testing-system-network-security)
 
 Internal penetration testing project performed in a controlled multi-host laboratory environment.
 
@@ -25,7 +25,6 @@ The assessment covered **reconnaissance, service enumeration, vulnerability asse
 
 The work included CVSS-based vulnerability reporting and hands-on use of tools such as **Nmap, Burp Suite, SQLmap, Mimikatz, Metasploit/Meterpreter, Rubeus, Impacket, John the Ripper, Netcat and ffuf**.
 
-> Repository link will be added once collaborator access is confirmed.
 
 ### ☁️ [Secure ML Kubernetes Deployment](https://github.com/ConoPaoloSantoro/secure-ml-kubernetes-deployment)
 
@@ -71,3 +70,4 @@ My repositories also include work in:
 ---
 
 Currently building a portfolio focused on **Cybersecurity, AI and Secure Systems**.
+
