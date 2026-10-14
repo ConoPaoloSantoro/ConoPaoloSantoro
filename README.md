@@ -13,6 +13,10 @@ My interests span **Cybersecurity, Artificial Intelligence, Network Security, Cl
 
 ## 🚀 Selected Projects
 
+### 🧠 [MSc Thesis — GNN Network Anomaly Detection on UNRAVELED](https://github.com/ConoPaoloSantoro/gnn-network-anomaly-detection-unraveled)
+
+Master's thesis research on **network anomaly detection** using **TDG/e-TDG** representations and graph neural networks on the UNRAVELED dataset. The repository overview is online; source files are being prepared for publication.
+
 ### 🔐 [Malware Detection & Adversarial Robustness](https://github.com/mpanico20/malware-detection)
 
 Machine Learning and Deep Learning approaches for PE malware detection, cross-dataset generalization and adversarial robustness analysis.
