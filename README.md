@@ -1,12 +1,12 @@
 ﻿# Hi, I'm Cono Paolo Santoro 👋
 
-MSc Computer Engineering student at the **University of Salerno**, specializing in **Cybersecurity**.
+MSc in **Computer Engineering** (Cybersecurity curriculum) from the **University of Salerno**.
 
 My interests span **Cybersecurity, Artificial Intelligence, Network Security, Cloud Computing and Distributed Systems**, with a particular focus on applying machine learning to security problems.
 
 ## 🎓 Education & Research
 
-- MSc in Computer Engineering — **Cybersecurity**, University of Salerno
+- MSc in Computer Engineering — **Cybersecurity**, University of Salerno (graduated October 2026)
 - Erasmus+ Master's Thesis Project at **ENSICAEN**, France
 - Master's thesis: **Detection of Anomalous Network Traffic through Graph Neural Networks**
 - Research interests: Graph Neural Networks, anomaly detection, network traffic analysis and AI for cybersecurity
